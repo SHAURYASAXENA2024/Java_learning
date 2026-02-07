@@ -15,6 +15,7 @@ class school{
             sc.nextLine();
             System.out.print("Enter the 3rd subject marks : ");
             s3= sc.nextInt();
+    
         }
         void average(){
             av = (s1+s2+s3)/3;

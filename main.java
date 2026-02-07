@@ -18,5 +18,6 @@ class main{
         System.err.println(course);
         System.out.println(rn);
         System.out.println(sem);
+        sc.close();
     }
 }
